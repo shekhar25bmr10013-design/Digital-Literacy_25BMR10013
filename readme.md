@@ -1,6 +1,6 @@
 # Digital Literacy Portfolio
 
-## 👩‍🎓 Student Details
+##  Student Details
 Name: Khushi Purwar  
 Reg No: YOUR_REG_NO  
 Branch: CSE  
@@ -8,34 +8,34 @@ Year: 1st Year
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project is created as part of the CSE0001 Digital Literacy course. It demonstrates my understanding of digital tools, professional communication, online platforms, and cyber safety.
 
 ---
 
-## 📂 Tasks Summary
+##  Tasks Summary
 
-### 🔹 Task 1 – Infographic
+###  Task 1 – Infographic
 Created a digital literacy awareness infographic using Canva.
 (Upload image in folder)
 
-### 🔹 Task 2 – Digital Portfolio
+###  Task 2 – Digital Portfolio
 Created profiles on:
 - GitHub
 - LinkedIn
 - Kaggle
 
-### 🔹 Task 3 – Platforms
+### Task 3 – Platforms
 - Completed coding challenge on HackerRank  
 - Created Google Form quiz  
 
 Google Form Link: PASTE_LINK_HERE
 
-### 🔹 Task 4 – Email Etiquette
+###  Task 4 – Email Etiquette
 - Wrote professional emails  
 - Created social media checklist  
 
-### 🔹 Task 5 – Cybercrime
+### Task 5 – Cybercrime
 - Case study on cybercrime  
 - Prevention checklist  
 
