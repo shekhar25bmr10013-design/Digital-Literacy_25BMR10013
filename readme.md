@@ -2,8 +2,11 @@
 
 ##  Student Details
 Name: Shekhar Rajput  
+
 Reg No: 25BMR10013 
+
 Branch: AI and Robotics
+
 Year: 1st Year 
 
 ---
