@@ -1,10 +1,10 @@
 # Digital Literacy Portfolio
 
 ##  Student Details
-Name: Khushi Purwar  
-Reg No: YOUR_REG_NO  
-Branch: CSE  
-Year: 1st Year  
+Name: Shekhar Rajput  
+Reg No: 25BMR10013 
+Branch: AI and Robotics
+Year: 1st Year 
 
 ---
 
