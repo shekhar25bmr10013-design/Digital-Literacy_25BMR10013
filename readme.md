@@ -32,7 +32,7 @@ Created profiles on:
 - Completed coding challenge on HackerRank  
 - Created Google Form quiz  
 
-Google Form Link: PASTE_LINK_HERE
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSetmy3BMsdzVVzIorhU8hwglfE6FuezXDe3A3CF2i0JfgLWPA/viewform?usp=publish-editor
 
 ###  Task 4 – Email Etiquette
 - Wrote professional emails  
